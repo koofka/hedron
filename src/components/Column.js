@@ -18,10 +18,10 @@ type Props = {
   sm?: number,
   md?: number,
   lg?: number,
-  xsShift?: number,
-  smShift?: number,
-  mdShift?: number,
-  lgShift?: number,
+  xsShift?: any,
+  smShift?: any,
+  mdShift?: any,
+  lgShift?: any,
   breakpoints?: Object,
 }
 
